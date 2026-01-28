@@ -65,7 +65,7 @@ img {
   text-transform: uppercase;
   width:100px;
 }
-img{
+.men{
   width:100px;
   
 }
@@ -562,5 +562,6 @@ h3 {
     gap: 10px;
   }
 }
+
 
 
