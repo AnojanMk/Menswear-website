@@ -64,7 +64,10 @@ img {
   letter-spacing: 0.12em;
   text-transform: uppercase;
 }
-
+img{
+  width:100px;
+  
+}
 .nav {
   display: flex;
   gap: 20px;
@@ -558,3 +561,4 @@ h3 {
     gap: 10px;
   }
 }
+
